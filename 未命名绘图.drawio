@@ -1,9 +1,108 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="VoQEFsDsQSayohb0JOBL">
-    <mxGraphModel>
+    <mxGraphModel dx="1122" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u1aqPMmCXMGFX70TY736-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="34" y="30" width="760" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-3" value="兴趣体系&lt;div&gt;建设&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DEDEDE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="34" y="30" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="u1aqPMmCXMGFX70TY736-5" target="u1aqPMmCXMGFX70TY736-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-5" value="前&lt;div&gt;期&lt;/div&gt;&lt;div&gt;输&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="60" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="u1aqPMmCXMGFX70TY736-6" target="u1aqPMmCXMGFX70TY736-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-6" value="LLM&lt;div&gt;兴趣(点)&lt;div&gt;发散&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Agent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="60" width="65" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="u1aqPMmCXMGFX70TY736-8" target="u1aqPMmCXMGFX70TY736-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-8" value="人&lt;span style=&quot;background-color: initial;&quot;&gt;工&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;校&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;验&lt;/span&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;补&lt;span style=&quot;background-color: initial;&quot;&gt;充&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="60" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="u1aqPMmCXMGFX70TY736-10" target="u1aqPMmCXMGFX70TY736-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="60" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-11" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;初版兴趣体系&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="60" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-14" value="兴趣领域" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="295" y="90" width="56" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-15" value="兴趣维度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="351" y="90" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-16" value="兴趣点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="407" y="90" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-21" value="兴趣维度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="351" y="130" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-22" value="兴趣点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="407" y="110" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-23" value="兴趣点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="407" y="130" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-24" value="兴趣点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="407" y="150" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="60" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-27" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;终版兴趣体系&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="636.5" y="60" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-28" value="兴趣领域" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="595" y="90" width="56" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-29" value="兴趣维度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="651" y="90" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-30" value="兴趣点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="707" y="90" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-31" value="兴趣维度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="651" y="130" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-32" value="兴趣点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="707" y="110" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-33" value="兴趣点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="707" y="130" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-34" value="兴趣点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="707" y="150" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4F5E7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="34" y="570" width="760" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-39" value="标签生产&lt;div&gt;（aid 截断）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#79C487;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="34" y="570" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3F2FA;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="34" y="210" width="760" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-42" value="兴趣点&lt;div&gt;拆解&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#6CB4E3;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="34" y="210" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAEEF7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="34" y="390" width="760" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-44" value="关键词&lt;div&gt;召回&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;反馈&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E583D6;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="34" y="390" width="70" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
