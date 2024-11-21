@@ -28,6 +28,9 @@
         <mxCell id="u1aqPMmCXMGFX70TY736-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u1aqPMmCXMGFX70TY736-70">
           <mxGeometry x="96" y="75" width="184" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="u1aqPMmCXMGFX70TY736-94" value="兴趣领域" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="u1aqPMmCXMGFX70TY736-70">
+          <mxGeometry x="365" y="120" width="56" height="55" as="geometry" />
+        </mxCell>
         <mxCell id="u1aqPMmCXMGFX70TY736-66" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="34" y="10" width="786" height="230" as="geometry" />
         </mxCell>
